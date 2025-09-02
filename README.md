@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Kilson, and I’m an Economics graduate passionate about **Data & Business Analytics**. I enjoy turning raw data into actionable insights using **SQL, Excel, Tableau, and Python**.  
+
+- 🔭 I’m currently working on building analytics dashboards that showcase **real-world business insights**.  
+- 📊 I recently completed a project analyzing **insurance claims cost & fraud detection trends** → [View Project](https://github.com/KilsonJ/Insurance-Claims-Cost-Loss-Ratio-Analysis-)  
+- 🌱 I’m learning Python for **data analysis & automation**.  
+- 🤝 I’m looking to collaborate on **analytics and data-driven business projects**.  
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kilson-joaquim/) or check out more of my projects in my GitHub repositories.  
+
 <!--
 **KilsonJ/KilsonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
