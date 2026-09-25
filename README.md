@@ -1,25 +1,21 @@
 ## Hi there 👋
 
-My name is Kilson, and I’m an Economics graduate passionate about **Data & Business Analytics**. I enjoy turning raw data into actionable insights using **SQL, Excel, Tableau, and Python**.  
+My name is Kilson, and I'm an Economics graduate passionate about **Data & Business Analytics**. I enjoy turning raw data into actionable insights using **SQL, Excel, Tableau, and Python**.
 
-- 🔭 I’m currently working on building analytics dashboards that showcase **real-world business insights**.  
-- 📊 I recently completed a project analyzing **insurance claims cost & fraud detection trends** → [View Project](https://github.com/KilsonJ/Insurance-Claims-Cost-Loss-Ratio-Analysis-)  
-- 🌱 I’m learning Python for **data analysis & automation**.  
-- 🤝 I’m looking to collaborate on **analytics and data-driven business projects**.  
+### 🏦 Featured project: Nordvik Bank loan risk analysis
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kilson-joaquim/) or check out more of my projects in my GitHub repositories.  
+An end to end credit risk analysis of a retail bank's loan book (671 loans, 1.05 million transactions), built in **SQL and Excel**.
 
-<!--
-**KilsonJ/KilsonJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Finding:** every loan given to a customer who had already been overdrawn went bad (27 out of 27).
+- **Recommendation:** two approval checks, an overdraft check and a 30% affordability cap, would flag **82% of the money tied up in problem loans** while affecting only 22% of borrowers.
+- **Skills shown:** SQL (joins, CTEs, window functions), data cleaning, Power Query, XLOOKUP, PivotTables, dashboarding and business recommendations.
 
-Here are some ideas to get you started:
+👉 [View the Nordvik project](https://github.com/KilsonJ/nordvik-loan-risk-analysis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to
+
+- 🔭 I'm currently working on building analytics dashboards that showcase **real-world business insights**.
+- 🌱 I'm learning Python for **data analysis & automation**.
+- 🤝 I'm looking to collaborate on **analytics and data-driven business projects**.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kilson-joaquim/) or check out more of my projects in my GitHub repositories.
